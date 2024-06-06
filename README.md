@@ -14,6 +14,8 @@ O Autômato Celular é implementado em linguagem C e apresenta uma interface gr�
 ## Como Usar
 Comando make valgrind
 
-!(![jogo](https://github.com/samarapalomalr/jogo_vida/assets/170581058/f57f5062-c3da-4068-b28e-8228f285cf1f)
-)
+
+
+![jogo](https://github.com/samarapalomalr/jogo_vida/assets/170581058/f57f5062-c3da-4068-b28e-8228f285cf1f)
+
 
