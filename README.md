@@ -12,7 +12,7 @@ O Autômato Celular é implementado em linguagem C e apresenta uma interface gr�
 - Interface gráfica para visualização do estado das células em cada geração.
 
 ## Como Usar
-Comando make valgrind
+- Comando make valgrind
 
 
 
